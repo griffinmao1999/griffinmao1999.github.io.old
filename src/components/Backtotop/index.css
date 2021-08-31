@@ -1,0 +1,30 @@
+.backtotop{
+  width: 60px;
+  height: 60px;
+  background-color: #67ff32;
+
+  position: fixed;
+  right: 40px;
+  bottom: 30vh;
+
+  z-index:100;
+
+  justify-content: center;
+  align-items: center;
+  transition: 400ms ease;
+
+  cursor: pointer;
+
+  display: none;
+}
+
+.backtotop:hover{
+  height: 72px;
+
+}
+
+@media screen and (max-width: 991px){
+  .backtotop{
+    right: 20px;
+  }
+}
