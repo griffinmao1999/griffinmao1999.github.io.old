@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "./static/css/main.1d45cc0e.chunk.css",
-    "main.js": "./static/js/main.55ff0427.chunk.js",
-    "main.js.map": "./static/js/main.55ff0427.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.61408e9e.js",
-    "runtime-main.js.map": "./static/js/runtime-main.61408e9e.js.map",
-    "static/css/2.ff916a1f.chunk.css": "./static/css/2.ff916a1f.chunk.css",
-    "static/js/2.ea902ea4.chunk.js": "./static/js/2.ea902ea4.chunk.js",
-    "static/js/2.ea902ea4.chunk.js.map": "./static/js/2.ea902ea4.chunk.js.map",
+    "main.css": "./static/css/main.206532ca.chunk.css",
+    "main.js": "./static/js/main.7bb65840.chunk.js",
+    "main.js.map": "./static/js/main.7bb65840.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.5971b92c.js",
+    "runtime-main.js.map": "./static/js/runtime-main.5971b92c.js.map",
+    "static/css/2.9d8b4078.chunk.css": "./static/css/2.9d8b4078.chunk.css",
+    "static/js/2.1f1563c2.chunk.js": "./static/js/2.1f1563c2.chunk.js",
+    "static/js/2.1f1563c2.chunk.js.map": "./static/js/2.1f1563c2.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/2.ff916a1f.chunk.css.map": "./static/css/2.ff916a1f.chunk.css.map",
-    "static/css/main.1d45cc0e.chunk.css.map": "./static/css/main.1d45cc0e.chunk.css.map",
-    "static/js/2.ea902ea4.chunk.js.LICENSE.txt": "./static/js/2.ea902ea4.chunk.js.LICENSE.txt",
-    "static/media/bg1-zhaji-top.jpg": "./static/media/bg1-zhaji-top.d7010491.jpg",
-    "static/media/bg2-rumor-top.jpg": "./static/media/bg2-rumor-top.3acac5a9.jpg"
+    "precache-manifest.ad3657b74389db5113dca433683376fa.js": "./precache-manifest.ad3657b74389db5113dca433683376fa.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.9d8b4078.chunk.css.map": "./static/css/2.9d8b4078.chunk.css.map",
+    "static/css/main.206532ca.chunk.css.map": "./static/css/main.206532ca.chunk.css.map",
+    "static/js/2.1f1563c2.chunk.js.LICENSE.txt": "./static/js/2.1f1563c2.chunk.js.LICENSE.txt",
+    "static/media/bg1-zhaji-top.jpg": "./static/media/bg1-zhaji-top.80a4acd0.jpg",
+    "static/media/bg2-rumor-top.jpg": "./static/media/bg2-rumor-top.e63e2cd8.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.61408e9e.js",
-    "static/css/2.ff916a1f.chunk.css",
-    "static/js/2.ea902ea4.chunk.js",
-    "static/css/main.1d45cc0e.chunk.css",
-    "static/js/main.55ff0427.chunk.js"
+    "static/js/runtime-main.5971b92c.js",
+    "static/css/2.9d8b4078.chunk.css",
+    "static/js/2.1f1563c2.chunk.js",
+    "static/css/main.206532ca.chunk.css",
+    "static/js/main.7bb65840.chunk.js"
   ]
 }
